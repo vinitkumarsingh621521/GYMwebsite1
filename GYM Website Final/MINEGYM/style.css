@@ -43,7 +43,7 @@
 	transition: transform 0.5s;
 	transition-timing-function: cubic-bezier(0.5, 1.6, 0.4, 0.7);
 	opacity: .4;
-	transform: translateX(-110%);
+	transform: translateY(-110%);
 	scroll-behavior: smooth;
 }
 .btn-primary{
